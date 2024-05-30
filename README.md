@@ -1,6 +1,6 @@
 # Memahami CRUD PHP Mysqli
 
-Penjelasan setiap kodenya sudsh di tambahkan di dalam file yabg ada. semoga dengan ini dapat membantu untuk memahami System CRUD di PHP Mysqli.
+Penjelasan setiap kodenya sudah di tambahkan di dalam setiap file yang ada. semoga dengan ini kamu dapat membantu untuk memahami System CRUD di PHP Mysqli.
 
 ## Cara Menjalankannya
 
